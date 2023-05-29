@@ -1,6 +1,6 @@
 # Export Chrome Extension for Sublime Text
 
-This Sublime Text plugin allows you to export your Chrome Extension files from the current project into a ZIP file. It excludes specified directories and file types, which you can customize via the settings. The resulting ZIP file will include the version number from the `manifest.json` file and a timestamp in its filename.
+This Sublime Text plugin allows you to export your Chrome Extension files from the current project into a ZIP file for quick local distribution. It excludes specified directories and file types, which you can customize via the settings. The resulting ZIP file will include the version number from the `manifest.json` file and a timestamp in its filename.
 
 ## Installation
 

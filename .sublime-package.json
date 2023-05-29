@@ -1,6 +1,6 @@
 {
   "name": "Chrome Extension Exporter",
-  "description": "Exports Chrome Extension files from the current project as ZIP, excluding the .git directory and .zip files. Used for quick local distribution.",
+  "description": "Exports Chrome Extension files from the current project as ZIP for quick local distribution.",
   "version": "1.0.0",
   "author": "iRonin.IT (https://www.ironin.it)",
   "platforms": ["*"]
